@@ -61,7 +61,7 @@ Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取
     - /var/packages/EmbyServer/var/plugins
     - /volume1/@appdata/EmbyServer/plugins
   - Windows
-    - emby\programdata\plugins
+    - Emby-Server\programdata\plugins
 - 需要**重启Emby服务**，插件才生效。
 
 ## 插件更新
